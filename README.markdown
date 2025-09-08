@@ -2,9 +2,7 @@
 
 ## Overview
 **Version**: 08  
-**Date**: September 08, 2025  
-**Author**: [Your Name/Handle]  
-**Primary Goal**: Develop an XGBoost model for the Titanic survival prediction task, optimized for accuracy as the primary metric, aligning with Kaggle competition requirements or business needs.
+**Primary Goal**: Develop an XGBoost model for the Titanic survival prediction task, optimized for accuracy as the primary metric, aligning with Kaggle competition requirements or business needs and learning ML.
 
 ## Key Changes from v07
 - Configured `GridSearchCV` to use `scoring='accuracy'`.
